@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/i18n">
+    <file alias="fracc_ru_RU.qm">/home/toster/fracc/build/Desktop_Debug/fracc_ru_RU.qm</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+3e5c5a09588faa7e31c154b897687a7d .qt/rcc/qrc_fracc_translations.cpp
+9cf68001eb685ec3cac6684dc18965a2 CMakeFiles/fracc_autogen
+9cf68001eb685ec3cac6684dc18965a2 CMakeFiles/fracc_lrelease
+da1b82a680efa52b03c78846eeef7e95 CMakeFiles/fracc_lupdate
+79f74769cf94748af12b4513d4de0058 fracc_autogen/timestamp
+de6339a82b415a84187d59f1f9db9f3a fracc_ru_RU.qm

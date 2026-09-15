@@ -1,0 +1,11 @@
+set(lupdate_project_file "/home/toster/fracc/CMakeLists.txt")
+set(lupdate_translations "/home/toster/fracc/fracc_ru_RU.ts")
+set(lupdate_include_paths "")
+set(lupdate_sources "")
+set(lupdate_subproject_count 1)
+
+set(lupdate_subproject1_source_dir "/home/toster/fracc")
+set(lupdate_subproject1_include_paths "/home/toster/fracc/build/Desktop_Debug/fracc_autogen/include;/usr/include/qt6/QtCore;/usr/include/qt6;/usr/lib/qt6/mkspecs/linux-g++;/usr/include/qt6;/usr/include/qt6/QtWidgets;/usr/include/qt6;/usr/include/qt6/QtGui;/usr/include/qt6;/usr/include;/usr/include;/usr/include")
+set(lupdate_subproject1_sources "/home/toster/fracc/build/Desktop_Debug/fracc_autogen/mocs_compilation.cpp;main.cpp;mainwindow.cpp;mainwindow.h;mainwindow.ui;/home/toster/fracc/build/Desktop_Debug/.qt/rcc/fracc_translations.qrc;/home/toster/fracc/build/Desktop_Debug/fracc_ru_RU.qm;/home/toster/fracc/build/Desktop_Debug/.qt/rcc/qrc_fracc_translations.cpp;/home/toster/fracc/build/Desktop_Debug/fracc_autogen/include/ui_mainwindow.h;/home/toster/fracc/build/Desktop_Debug/fracc_autogen/timestamp;/home/toster/fracc/build/Desktop_Debug/fracc_ru_RU.qm.rule;/home/toster/fracc/build/Desktop_Debug/.qt/rcc/qrc_fracc_translations.cpp.rule;/home/toster/fracc/build/Desktop_Debug/fracc_autogen/timestamp.rule")
+set(lupdate_subproject1_excluded "")
+set(lupdate_subproject1_autogen_dir "/home/toster/fracc/build/Desktop_Debug/fracc_autogen")
